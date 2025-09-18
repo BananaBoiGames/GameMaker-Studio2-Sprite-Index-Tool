@@ -1,2 +1,8 @@
 # GameMaker-Studio2-Sprite-Index-Tool
-This tool is made for mostly Pizza Tower Decomps, this is an attempt at fixing the Sprite Index issue with Decomps. Check the youtube in the description for instructions
+
+This tool is ment to be used for Pizza Tower Decomps using BurnedPopcorns decompiling tools and the Asset_Order note in the decomp!
+
+Of course these tools arent perfect and there will be slip ups!
+
+HOW TO USE
+https://youtu.be/zo45UOgLzCE
