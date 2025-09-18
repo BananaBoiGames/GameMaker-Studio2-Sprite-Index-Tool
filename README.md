@@ -5,4 +5,4 @@ This tool is ment to be used for Pizza Tower Decomps using BurnedPopcorns decomp
 Of course these tools arent perfect and there will be slip ups!
 
 HOW TO USE
-https://youtu.be/zo45UOgLzCE
+https://youtu.be/byafrjukeCM
